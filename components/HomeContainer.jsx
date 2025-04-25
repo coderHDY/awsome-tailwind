@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { toggleTheme } from "@/utils/theme";
+import ThemeController from "./themeController";
 
 export default function HomeContainer() {
   return (
@@ -11,6 +12,7 @@ export default function HomeContainer() {
       >
         切换主题
       </button>
+      <ThemeController />
       <div className="flex flex-col items-center justify-center min-h-screen">
         <span className="text-3xl text-base-content">
           Welcome to <span className="text-blue-600">Next.js</span>
