@@ -1,6 +1,8 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import React, { useCallback } from "react";
+import Image from "next/image";
 import ReactFlow, {
   addEdge,
   Background,
@@ -61,8 +63,10 @@ function CustomNode({ id, data }) {
       {data.image && (
         <img
           src={data.image}
-          alt="node"
-          className="w-full h-20 object-cover rounded-md"
+          alt="node" // 必须加
+          width={100} // 要写具体数值，单位px
+          height={100}
+          className="w-full h-20 object-cover rounded-md" // 样式可以用
         />
       )}
       <div className="text-center font-bold">{data.label}</div>
