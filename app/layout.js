@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -19,9 +20,24 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        {/* header */}
+        <header className="flex items-center justify-between px-4 py-2 bg-base-200">
+          <div className="flex items-center">
+            <h1 className="text-xl font-bold">My App</h1>
+          </div>
+          <nav className="flex space-x-4">
+            <Link href="/" className="text-base-content">
+              Home
+            </Link>
+            <Link href="/user" className="text-base-content">
+              User
+            </Link>
+            <Link href="/flow" className="text-base-content">
+              flow
+            </Link>
+          </nav>
+        </header>
         {children}
       </body>
     </html>

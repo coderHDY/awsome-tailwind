@@ -3,12 +3,10 @@ import React, { useState, useEffect } from "react";
 import { toggleTheme } from "@/utils/theme";
 import ThemeController from "./themeController";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function HomeContainer() {
   const router = useRouter();
-  const goFlow = () => {
-    router.push("/flow");
-  };
   return (
     <div className="flex flex-col  bg-base-100 p-2">
       <button
@@ -16,12 +14,6 @@ export default function HomeContainer() {
         className="w-40 mr-4 px-4 py-4 bg-primary text-primary-content rounded-full font-bold shadow-lg hover:bg-primary-focus transition duration-300 ease-in-out"
       >
         切换主题
-      </button>
-      <button
-        onClick={goFlow}
-        className="w-40 mr-4 px-4 py-4 bg-primary text-primary-content rounded-full font-bold shadow-lg hover:bg-primary-focus transition duration-300 ease-in-out"
-      >
-        跳转Flow
       </button>
       <ThemeController />
       <div className="flex flex-col items-center justify-center min-h-screen">
