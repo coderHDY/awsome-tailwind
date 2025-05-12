@@ -36,6 +36,9 @@ export default function RootLayout({ children }) {
             <Link href="/flow" className="text-base-content">
               flow
             </Link>
+            <Link href="/about" className="text-base-content">
+              about
+            </Link>
           </nav>
         </header>
         {children}
