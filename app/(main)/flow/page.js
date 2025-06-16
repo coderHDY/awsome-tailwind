@@ -1,6 +1,6 @@
 // components/FlowEditor.tsx
 "use client";
-import FlowEditor from "@/components/FlowEditor";
+import FlowEditor from "@/app/(main)/flow/FlowEditor";
 // app/flow/page.tsx
 import dynamic from "next/dynamic";
 

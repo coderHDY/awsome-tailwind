@@ -32,7 +32,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/FlowEditor.tsx"  ],
+, "app/(main)/flow/FlowEditor.tsx"  ],
   "exclude": [
     "node_modules"
   ]

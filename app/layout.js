@@ -39,6 +39,9 @@ export default function RootLayout({ children }) {
             <Link href="/about" className="text-base-content">
               about
             </Link>
+            <Link href="/flow-local" className="text-base-content">
+              手写flow组件
+            </Link>
           </nav>
         </header>
         {children}
