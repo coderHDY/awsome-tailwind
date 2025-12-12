@@ -1,5 +1,6 @@
 import Link from "next/link";
 import "./globals.css";
+import SessionProvider from "@/components/providers/SessionProvider";
 
 export const metadata = {
   title: "Create Next App",
@@ -10,30 +11,35 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        {/* header */}
-        <header className="flex items-center justify-between px-4 py-2 bg-base-200">
-          <div className="flex items-center">
-            <h1 className="text-xl font-bold">My App</h1>
-          </div>
-          <nav className="flex space-x-4">
-            <Link href="/" className="text-base-content">
-              Home
-            </Link>
-            <Link href="/user" className="text-base-content">
-              User
-            </Link>
-            <Link href="/flow" className="text-base-content">
-              flow
-            </Link>
-            <Link href="/about" className="text-base-content">
-              about
-            </Link>
-            <Link href="/flow-local" className="text-base-content">
-              手写flow组件
-            </Link>
-          </nav>
-        </header>
-        {children}
+        <SessionProvider>
+          {/* header */}
+          <header className="flex items-center justify-between px-4 py-2 bg-base-200">
+            <div className="flex items-center">
+              <h1 className="text-xl font-bold">My App</h1>
+            </div>
+            <nav className="flex space-x-4">
+              <Link href="/" className="text-base-content">
+                Home
+              </Link>
+              <Link href="/user" className="text-base-content">
+                User
+              </Link>
+              <Link href="/flow" className="text-base-content">
+                flow
+              </Link>
+              <Link href="/about" className="text-base-content">
+                about
+              </Link>
+              <Link href="/flow-local" className="text-base-content">
+                手写flow组件
+              </Link>
+              <Link href="/login" className="text-base-content">
+                登录
+              </Link>
+            </nav>
+          </header>
+          {children}
+        </SessionProvider>
       </body>
     </html>
   );
