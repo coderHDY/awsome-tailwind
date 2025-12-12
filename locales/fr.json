@@ -1,0 +1,423 @@
+{
+  "home": {
+    "title": "Générateur d'Art IA Gratuit : Plateforme Créative Tout-en-Un | ArtAny AI",
+    "description": "ArtAny AI : Plateforme Créative et Communauté Propulsée par l'IA | Générez Gratuitement des Images, Vidéos et Synchronisations Labiales Époustouflantes | Découvrez des Prompts Intelligents et Partagez l'Inspiration",
+    "keywords": "Générateur de Vidéo IA Gratuit, Outils Vidéo IA Gratuits, Vidéo IA, Image vers Vidéo Gratuit, Générateur d'Images Gratuit, Humain Digital"
+  },
+  "Header": {
+    "text2image": "Texte vers Image",
+    "aiVideo": "Vidéo IA",
+    "text2video": "Texte vers Vidéo",
+    "image2video": "Image vers Vidéo",
+    "wanvace": "Wan Vace",
+    "videoEffects": "Effets Vidéo IA",
+    "veo3": "Veo3",
+    "aiImage": "Image IA",
+    "aiImageGenerator": "Générateur d'Images IA",
+    "flux1Kontext": "Flux1 Kontext",
+    "aiTools": "Outils IA",
+    "promptGenerator": "Générateur de Prompts",
+    "explore": "Explorer",
+    "history": "Historique",
+    "pricing": "Tarifs",
+    "inspiration": "Inspiration",
+    "about": "À propos"
+  },
+  "Hero": {
+    "h1-up": "Fini les images ennuyeuses. Profitez des meilleures photos gratuites, propulsées par des robots partout",
+    "h1": "Plateforme créative IA tout-en-un avec des ressources de qualité premium",
+    "search": "Rechercher des images générées par l'IA...",
+    "searchButton": "Rechercher",
+    "table-1": "Générateur d'images IA",
+    "table-1-description": "Des mots aux images",
+    "table-2": "Image vers vidéo",
+    "table-2-description": "Générer des vidéos",
+    "table-3": "Texte vers vidéo",
+    "table-3-description": "Les mots deviennent cinématographiques maintenant !",
+    "table-4": "Générateur de Prompts",
+    "table-4-description": "Assistant de Prompts IA",
+    "value-1": "Couvrez tout, des outils IA et d'édition au contenu stock !",
+    "value-1-button": "Obtenir un forfait",
+    "h2-1": "Inspirez-vous",
+    "h2-1-description": "Découvrez des milliers d'images incroyables créées par les artistes ArtAny AI",
+    "h2-2": "Communauté du Générateur d'Art ArtAny AI",
+    "h2-2-description": "Rejoignez des millions de passionnés d'Art IA dans le monde pour explorer, aimer et commenter les images générées par IA les plus tendance, les vidéos captivantes et les styles d'art IA d'avant-garde.",
+    "h2-2-button-1": "Commencer à Créer",
+    "h2-2-button-2": "Explorer Plus",
+    "h2-3": "Favoris des Créatifs",
+    "h2-3-description": "Découvrez ce qui attire le plus l'attention sur le Générateur d'Art ArtAny AI en ce moment",
+    "h2-4": "Outils Puissants : Pour les Créateurs de Tous Niveaux",
+    "h2-5": "Utilisation d'un Générateur IA",
+    "h2-5-description": "Outil Gratuit pour Votre Art",
+    "h2-5-h3-1": "Rejoignez une communauté d'Art IA dynamique",
+    "h2-5-h3-1-description": "Des millions de personnes utilisent le Générateur ArtAny AI chaque mois pour créer, partager et discuter d'art IA. En quelques étapes simples, vous pouvez créer des images et des illustrations IA à partager avec vos amis.",
+    "h2-5-h3-2": "Créez avec des amis",
+    "h2-5-h3-2-description": "Démarrez ou rejoignez un salon de discussion avec vos amis, puis collaborez sur l'Art IA, improvisez ou détendez-vous simplement tout en étant créatif.",
+    "h2-5-h3-3": "Défis quotidiens officiels d'Art IA",
+    "h2-5-h3-3-description": "Mettez à l'épreuve votre créativité et vos compétences en prompting. Des milliers de personnes participent et votent pour les créations photo des autres chaque jour.",
+    "h2-5-h3-4": "Gratuit à utiliser",
+    "h2-5-h3-4-description": "Générations illimitées de Stable Diffusion de base, plus des crédits gratuits quotidiens pour utiliser des modèles et des paramètres de générateur d'art IA plus puissants.",
+    "h2-5-h3-5": "Plus d'algorithmes IA qu'ailleurs",
+    "h2-5-h3-5-description": "Choisissez parmi Flux, Stable Diffusion, DALL-E 3, Ideogram, SDXL, des milliers de modèles IA entraînés par la communauté, plus CLIP-Guided Diffusion, VQGAN+CLIP et Neural Style Transfer.",
+    "h2-5-h3-6": "Générateurs d'Art IA web et mobile",
+    "h2-5-h3-6-description": "Créez des images générées par IA de haute qualité depuis votre ordinateur portable, tablette ou mobile et examinez les images depuis n'importe quel appareil.",
+    "h2-5-button-1": "Commencer à Créer",
+    "h2-6": "FAQ sur le Générateur d'Art IA",
+    "h2-6-description": "Questions fréquemment posées sur l'Art IA et ArtAny",
+    "h2-6-h3-1": "Comment fonctionne le Générateur d'Art ArtAny AI ?",
+    "h2-6-h3-1-answer": "ArtAny est un générateur d'art, mais ce qui le rend unique, c'est la communauté. Rejoignez des millions d'autres passionnés d'art IA et publiez vos créations, aimez et commentez d'autres créations, passez du temps dans les salons de discussion d'art IA et participez même à des concours et des défis d'œuvres d'art - tout cela sans quitter ArtAny.",
+    "h2-6-h3-2": "Est-ce que ça coûte de l'argent d'utiliser ArtAny ?",
+    "h2-6-h3-2-answer": "Vous pouvez générer du contenu IA de qualité basique (images et courtes vidéos) gratuitement. Les résolutions plus élevées, les durées plus longues ou les sorties professionnelles nécessitent des crédits. Des crédits gratuits quotidiens sont fournis, et vous pouvez en gagner plus grâce à la participation communautaire ! Seuls les services premium comme l'impression ou les créations professionnelles nécessitent un paiement.",
+    "h2-6-h3-3": "ArtAny a-t-il des fonctionnalités uniques ?",
+    "h2-6-h3-3-answer": "Oui ! ArtAny dispose de plus de modèles de générateur d'art IA que toute autre plateforme, et plus de fonctionnalités sociales aussi, ce qui en fait la communauté d'art IA la plus dynamique sur Internet.",
+    "h2-6-h3-4": "Quels modèles IA sont disponibles sur ArtAny ?",
+    "h2-6-h3-4-answer": "ArtAny propose plus de modèles de générateur d'art IA que toute autre plateforme. Flux, Stable Diffusion, Dall-e 3, Ideogram, Google Imagen, plus des modèles vidéo comme LUMA Dream Machine et Stable Video Diffusion, et d'autres à venir !"
+  },
+  "Pricing": {
+    "title": "ArtAny AI Tarifs - Génération de Vidéos et Images IA",
+    "description": "Explorez nos plans tarifaires pour ArtAny, l'outil de génération de vidéos et d'images IA. Choisissez le plan qui convient le mieux à vos besoins et commencez à créer des visuels époustouflants avec l'IA !",
+    "headline": "Plans Tarifaires ArtAny AI",
+    "subheadline": "Choisissez le plan qui convient le mieux à vos besoins et commencez à créer des visuels époustouflants avec l'IA !",
+    "creationLimits": "Jusqu'à {videoCount} vidéos ou {imageCount} images",
+    "creditsPerPeriod": "{creditCount} crédits par {period}",
+    "month": "mois",
+    "year": "année",
+    "plans": {
+      "plan2": {
+        "name": "Plan Démarrage",
+        "description": "Parfait pour les petits projets",
+        "features": {
+          "feature1": "Générateur de prompts gratuit",
+          "feature2": "Accès à tous les modèles IA",
+          "feature3": "Utilisation illimitée des vidéos 🔥",
+          "feature4": "Obtenez tous les crédits en une fois avec les frais annuels",
+          "feature5": "Historique des vidéos",
+          "feature6": "Licence commerciale",
+          "feature7": "Modèles rapides illimités",
+          "feature8": "Sans publicités",
+          "feature9": "Les crédits se reportent et n'expirent jamais"
+        }
+      },
+      "plan3": {
+        "name": "Plan Premium",
+        "description": "Vous avez besoin de plus de puissance",
+        "features": {
+          "feature1": "Générateur de prompts gratuit",
+          "feature2": "Accès à tous les modèles IA",
+          "feature3": "Utilisation illimitée des vidéos 🔥",
+          "feature4": "Obtenez tous les crédits en une fois avec les frais annuels",
+          "feature5": "Historique des vidéos",
+          "feature6": "Licence commerciale",
+          "feature7": "Modèles rapides illimités",
+          "feature8": "Sans publicités",
+          "feature9": "Les crédits se reportent et n'expirent jamais"
+        }
+      },
+      "plan4": {
+        "name": "Plan Avancé",
+        "description": "Vous avez besoin de plus de puissance",
+        "features": {
+          "feature1": "Générateur de prompts gratuit",
+          "feature2": "Accès à tous les modèles IA",
+          "feature3": "Utilisation illimitée des vidéos 🔥",
+          "feature4": "Obtenez tous les crédits en une fois avec les frais annuels",
+          "feature5": "Historique des vidéos",
+          "feature6": "Licence commerciale",
+          "feature7": "Modèles rapides illimités",
+          "feature8": "Sans publicités",
+          "feature9": "Les crédits se reportent et n'expirent jamais"
+        }
+      }
+    }
+  },
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "description": "At ArtAny AI, we are committed to providing an exceptional experience for our users. We understand that circumstances may change, and you may need to request a refund. Please read our refund policy carefully before making a purchase.",
+    "refundEligibility": {
+      "title": "Refund Eligibility",
+      "description": "Time Limit: ",
+      "timeLimit": "Refund requests must be made within 3 days of your purchase. After this period, we will be unable to process any refund requests.",
+      "creditUsage": "Credit Usage: ",
+      "creditUsageDescription": "If you have used more than 100 credits, regardless of the purchase date, you will no longer be eligible for a refund."
+    },
+    "howToRequest": {
+      "title": "How to Request a Refund",
+      "description": "If you meet the above eligibility criteria and wish to request a refund, please follow these steps:",
+      "contactUs": "Contact Us: ",
+      "contactUsDescription": "Reach out to our support team via email at ",
+      "contactUsLink": "help@artany.ai",
+      "provideDetails": "Provide Details: ",
+      "provideDetailsDescription": "Include your account information, order number, purchase date, and the reason for your refund request in the email.",
+      "submitOnTime": "Submit on Time: ",
+      "submitOnTimeDescription": "Ensure your refund request is submitted within 3 days of purchase."
+    },
+    "refundProcessing": {
+      "title": "Refund Processing",
+      "description": "Once we receive your refund request, we will review it and notify you of the result as soon as possible. If approved, the refund will be processed through your original payment method."
+    },
+    "policyChanges": {
+      "title": "Policy Changes",
+      "description": "We reserve the right to update the refund policy at any time. Any changes will be posted on this page, and we recommend checking regularly for the latest information."
+    }
+  },
+  "text2video": {
+    "title": "Générateur de Vidéos Artistiques : Texte en Vidéo | ArtAny AI Video",
+    "description": "Art AI Texte en Vidéo – Transformez instantanément du texte en vidéos de qualité professionnelle avec l'IA. Les prompts intelligents créent des clips parfaits pour les réseaux sociaux et les entreprises. ArtAny AI"
+  },
+  "wan-vace": {
+    "title": "Wan 2.1 VACE : Modèle de Génération Vidéo Open-Source | Wan VACE",
+    "description": "Wan AI VACE est un modèle open-source de 14B pour la génération de vidéos HD à partir d'images initiales et finales, idéal pour un usage créatif et commercial. Seedance AI Video Generation"
+  },
+  "wan-ai": {
+    "title": "Wan AI Video Generation Model (Wan 2.1)| ArtAny AI",
+    "description": "ArtAny AI integrates Wan AI video models, featuring Wan 2.1! Generate anime, realistic & 3D videos effortlessly. Perfect for creators and businesses. "
+  },
+  "image2video": {
+    "title": "Art AI Image en Vidéo, Génération de Vidéos à partir d'Images | ArtAny",
+    "description": "L'outil Image en Vidéo d'ArtAny AI utilise l'IA pour créer des vidéos à partir d'images et de prompts. Idéal pour le marketing, les réseaux sociaux et les projets personnels. Essayez-le maintenant !"
+  },
+  "videoEffects": {
+    "title": "Effets IA pour Vidéos - Modèles Vidéo IA Gratuits | ArtAny AI",
+    "description": "Découvrez plus de 40 effets vidéo et modèles IA gratuits avec ArtAny AI ! Créez facilement des vidéos époustouflantes grâce à la technologie IA de pointe. Essayez maintenant !"
+  },
+  "veo3": {
+    "title": "Générateur de Vidéos Google Veo3 IA : Texte en Vidéo | ArtAny AI",
+    "description": "Créez des vidéos époustouflantes avec IA et audio synchronisé grâce à Veo 3. Le dernier outil de génération vidéo IA qui ajoute des effets sonores, des dialogues et des bruits d'ambiance."
+  },
+  "models": {
+    "wan-ai": {
+      "title": "Wan 2.1: Leading AI Video Generation Model (Wanx 2.1)|Wan AI",
+      "description": "Wan 2.1 (Alibaba WanX AI) an AI creative platform,enables text-to-image, image editing, text-to-video, video-to-video and image-to-video creation powered by AI.",
+      "h1": "Wan 2.1 (Wanx 2.1) by Alibaba Wan AI",
+      "h1-description": "Wan AI is an advanced and powerful visual generation model developed by Tongyi Lab. It can generate videos based on text, images and other control signals. The Wan 2.1 series models are now fully open-source.",
+      "h2-1": "Overview of Wan AI",
+      "h2-1-h3-1": "SOTA Performance",
+      "h2-1-h3-1-description": "Wan 2.1 consistently outperforms existing open-source models and state-of-the-art commercial solutions across multiple benchmarks.",
+      "h2-1-h3-2": "Supports Consumer-grade GPUs",
+      "h2-1-h3-2-description": "The T2V-1.3B model requires only 8.19 GB VRAM, making it compatible with almost all consumer-grade GPUs. It can generate a 5-second 480P video on an RTX 4090 in about 4 minutes (without optimization techniques like quantization). Its performance is even comparable to some closed-source models.",
+      "h2-1-h3-3": "Multiple tasks",
+      "h2-1-h3-3-description": "Wan 2.1 excels in Text-to-Video, Image-to-Video, Video Editing, Text-to-Image, and Video-to-Audio, advancing the field of video generation.",
+      "h2-1-h3-4": "Visual Text Generation",
+      "h2-1-h3-4-description": "Wan 2.1 is the first video model capable of generating both Chinese and English text, featuring robust text generation that enhances its practical applications.",
+      "h2-1-h3-5": "Powerful Video VAE of Wan AI",
+      "h2-1-h3-5-description": "Wan-VAE delivers exceptional efficiency and performance, encoding and decoding 1080P videos of any length while preserving temporal information, making it an ideal foundation for video and image generation.",
+      "h2-2": "Features of Wan AI",
+      "h2-2-h3-1": "Complex Motions by Wan AI 2.1",
+      "h2-2-h3-1-description": "Excels at generating realistic videos featuring extensive body movements, complex rotations, dynamic scene transitions, and fluid camera motions.",
+      "h2-2-h3-2": "Physical Simulation by Wan AI 2.1",
+      "h2-2-h3-2-description": "Generates videos that accurately simulate real-world physics and realistic object interactions.",
+      "h2-2-h3-3": "Cinematic Quality by Wan AI 2.1",
+      "h2-2-h3-3-description": "Offers movie-like visuals with rich textures and a variety of stylized effects.",
+      "h2-2-h3-4": "Controllable Editing by Wan AI 2.1",
+      "h2-2-h3-4-description": "Features a universal editing model for precise edits using image or video references.",
+      "h2-2-h3-5": "Visual Text Generation by Wan AI 2.1",
+      "h2-2-h3-5-description": "Creates text and dynamic text effects in videos directly from text prompts.",
+      "h2-3": "Product Features",
+      "h2-3-description": "Through our product, you can seamlessly leverage our models with a user-friendly experience to access inspiring video content.",
+      "h2-3-h3-1": "Text to Video",
+      "h2-3-h3-2": "Image to Video",
+      "h2-3-h3-3": "Start and End Frames",
+      "h2-4": "Wan AI 2.1 Open Source",
+      "h2-4-description": "In this repo, we release the code and weights for the Wan 2.1, a comprehensive and open suite of video foundation models designed to push the boundaries of video generation.",
+      "h2-4-h3-1": "Wan2.1-I2V-14B",
+      "h2-4-h3-1-720P": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-I2V-14B-720P",
+      "h2-4-h3-1-480P": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-I2V-14B-480P",
+      "h2-4-h3-1-description": "The I2V-14B model outperforms leading closed-source models as well as all existing open-source models, achieving SOTA performance. It is capable of generating videos that demonstrate complex visual scenes and motion patterns based on input text and images, including both 480P and 720P resolution models.",
+      "h2-4-h3-2": "Wan2.1-T2V-14B",
+      "h2-4-h3-2-720P": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-T2V-14B",
+      "h2-4-h3-2-description": "The T2V-14B model sets a new SOTA performance among both open-source and closed-source models, showcasing its ability to generate high-quality visuals with substantial motion dynamics. It is also the only video model capable of producing both Chinese and English text and supports video generation at both 480P and 720P resolutions.",
+      "h2-4-h3-3": "Wan2.1-T2V-1.3B",
+      "h2-4-h3-3-480P": "https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-T2V-1.3B",
+      "h2-4-h3-3-description": "The T2V-1.3B model supports video generation on almost all consumer-grade GPUs, requiring only 8.19 GB of BRAM to produce a 5-second 480P video, with an output time of just 4 minutes on an RTX 4090 GPU. Through pre-training and distillation processes, it surpasses larger open-source models and achieves performance even comparable to some advanced closed-source models.",
+      "h2-4-h3-4": "Wan2.1-FLF2V-14B-720P",
+      "h2-4-h3-4-720P": "https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P#run-first-last-frame-to-video-generation",
+      "h2-4-h3-4-description": "Wan 2.1 First-Last-Frame-to-Video (FLF2V) is an AI-based video generation technology that synthesizes intermediate frames between a given start and end frame to produce smooth videos. It leverages a 14B-parameter model, supports multi-GPU accelerated inference, and offers pretrained checkpoints with a Gradio demo for interactive testing. Applications include video inpainting, animation production, and more.",
+      "h2-5": "Frequently Asked Questions",
+      "h2-5-h3-1": "What is Wan 2.1 by Wan AI and how does it work?",
+      "h2-5-h3-1-description": "Wan 2.1 by Wan AI is Alibaba Cloud's state-of-the-art video generation model that transforms text descriptions into stunning, high-quality videos. Leveraging advanced technologies like Variational Autoencoders (VAE) and Diffusion Transformers (DiT), it ensures realistic visuals, smooth transitions, and accurate physics for a truly immersive experience.",
+      "h2-5-h3-2": "Do I need technical expertise to use Wan 2.1 by Wan AI?",
+      "h2-5-h3-2-description": "Wan 2.1 by Wan AI is designed with simplicity in mind. Its intuitive interface allows anyone to create professional-quality videos effortlessly, even without advanced technical skills. Whether you're a beginner or a pro, you'll find the platform easy to navigate and use.",
+      "h2-5-h3-3": "What types of videos can I create with Wan 2.1 by Wan AI?",
+      "h2-5-h3-3-description": "Wan 2.1 by Wan AI is versatile and capable of generating a wide range of video content. From dynamic scenes like dancing and sports to educational tutorials and historical video restoration, it empowers you to bring your creative vision to life.",
+      "h2-5-h3-4": "How long does it take to generate a video?",
+      "h2-5-h3-4-description": "The video generation time depends on the complexity and length of your project. For faster results, the Pro version offers accelerated processing speeds, making it ideal for time-sensitive tasks.",
+      "h2-5-h3-5": "Can I customize the video output?",
+      "h2-5-h3-5-description": "Absolutely! Wan 2.1 by Wan AI provides extensive customization options, allowing you to adjust resolution, frame rate, movement complexity, and more. Tailor your videos to meet your specific needs and preferences.",
+      "h2-5-h3-6": "What input formats does Wan 2.1 AI by Wan AI support for video generation?",
+      "h2-5-h3-6-description": "Wan 2.1 AI by Wan AI primarily supports text descriptions as input for video generation. You can provide detailed textual prompts describing the scene, actions, and desired visual effects. Additionally, it may support image inputs for enhanced context in future updates.",
+      "h2-5-h3-7": "Can Wan 2.1 AI by Wan AI generate videos in multiple languages?",
+      "h2-5-h3-7-description": "Yes, Wan 2.1 AI by Wan AI supports multilingual text inputs, allowing you to generate videos based on descriptions in various languages. However, the quality of output may vary depending on the language and the complexity of the description.",
+      "h2-5-h3-8": "Is there a limit to the length of videos that Wan 2.1 by Wan AI can generate?",
+      "h2-5-h3-8-description": "The length of generated videos depends on the subscription plan. The free version may have limitations on video duration, while the Pro version supports longer and more complex video generation. Specific limits can be found in the platform's documentation.",
+      "h2-5-h3-9": "How does Wan 2.1 by Wan AI ensure the quality of generated videos?",
+      "h2-5-h3-9-description": "Wan 2.1 AI by Wan AI leverages advanced technologies like Variational Autoencoders (VAE) and Diffusion Transformers (DiT) to ensure high-quality outputs. These technologies enable realistic visuals, smooth transitions, and accurate physics simulations.",
+      "h2-5-h3-10": "How does Wan 2.1 by Wan AI handle complex scenes with multiple characters?",
+      "h2-5-h3-10-description": "Wan 2.1 by Wan AI is designed to handle complex scenes with multiple characters by analyzing the relationships and interactions described in the text input. It uses advanced algorithms to ensure realistic positioning, movements, and interactions between characters."
+    },
+    "flux1": {
+      "title": "ALL the Top-Tier AI Video Models in ONE Place | ArtAny AI",
+      "description": "Create pro videos at low cost! ArtAny combines all AI video models - image-to-video, video-to-video, effects & images made easy. Use ArtAny AI video generator !"
+    }
+  },
+  "imageGenerator": {
+    "title": "Générateur d'Images IA Gratuit | Images Artistiques | ArtAny AI Image",
+    "description": "ArtAny AI - Générateur d'images IA 100% gratuit et illimité avec des modèles populaires—créez des visuels de haute qualité en un clic ! | ArtAny AI"
+  },
+  "flux1Kontext": {
+    "title": "Flux1 Kontext Pro, Max, Multi Image – Essayez Flux1 sur ArtAny AI",
+    "description": "Créez et modifiez facilement des projets multi-images avec Flux.1 Kontext. Débloquez la complexité sans effort ! Essayez Flux Pro, Max & Multi sur ArtAny AI maintenant !"
+  },
+  "homeShow":{
+    "title": "Free AI Video Prompt Generator - AI Image Prompt Generator",
+    "description": "the best prompt generator for AI video and image generation, Wan AI, Flux1, Runway, Veo3, Kling AI, Seedance1.0, Google, ByteDance, ArtAny AI"
+  },
+  "explore": {
+    "title": "AI Videos: Discover Free AI-generated Videos | ArtAny",
+    "description": "Find high-quality videos generated by AI. Create stunning AI videos using the same template."
+  },
+  "prompt": {
+    "SEO": {
+      "title": "Free AI Video Prompt Generator - Perfect Prompts for AI Model",
+      "description": "Free prompt tool for AI! Generate prompts for image-to-video,text-to-video & text-to-image.Perfect for Wan AI, Flux, Runway.Ideal for creators & developers.",
+      "keywords": "AI Prompt Generator Tool"
+    },
+    "promptGenerator": {
+      "name": "Video Prompt Generator",
+      "description": "Select prompt formula",
+      "viewTutorial": "View tutorial",
+      "selectFormula": "Select formula",
+      "formulas": {
+        "basic": {
+          "name": "Basic Formula",
+          "description": "Suitable for new users trying AI video for the first time"
+        },
+        "advanced": {
+          "name": "Advanced Formula",
+          "description": "Suitable for users with some AI video experience"
+        },
+        "camera": {
+          "name": "Camera Movement Formula",
+          "description": "Suitable for users with specific camera movement requirements"
+        },
+        "transformation": {
+          "name": "Transformation Formula",
+          "description": "Suitable for users who need transformation effects"
+        }
+      },
+      "selectOutputLanguage": "Select output language",
+      "enterYourIdea": "Enter your idea",
+      "enterYourIdeaDescription": "Describe the video content you want to generate...",
+      "loginForFreeAccess": "Login for free access",
+      "generatePrompt": "Generate Prompt",
+      "generating": "Generating...",
+      "resultName": "Generated Result",
+      "copied": "Copied",
+      "copy": "Copy",
+      "generatingPrompt": "Generating prompt, please wait...",
+      "resultDescription": "Enter your idea on the left and generate a prompt.",
+      "exploreMore": "Explore more"
+    },
+    "title": "How to write and debug AI prompts",
+    "description": "We provide a powerful free prompt generator that helps users generate high-quality prompts, making it easier to use Wan AI and other AI video generation tools.",
+    "target": "Target audience",
+    "feature": "Features",
+    "example": "Example prompts",
+    "optionalTargetType": "Optional target type",
+    "notRecommended": "Not recommended",
+    "recommended": "Recommended",
+    "initialPrompt": "Initial prompt",
+    "exampleCombination": "Example combination",
+    "adjustedPrompt": "Adjusted prompt",
+    "combination1": "Combination 1",
+    "combination2": "Combination 2",
+    "recommendedOperation": "Recommended operation",
+    "section1": {
+      "title": "How to use the prompt generator",
+      "modes": {
+        "basic": {
+          "name": "Basic mode (Basic Formula)",
+          "target": "New users trying AI video for the first time",
+          "feature": "Provides simple and easy-to-understand prompt templates, suitable for quick start",
+          "example": "Beach, sunset, waves"
+        },
+        "advanced": {
+          "name": "Advanced mode (Advanced Formula)",
+          "target": "Users with some AI video generation experience",
+          "feature": "Supports more complex prompt combinations, generating more creative videos",
+          "example": "Future city, flying car, neon lights"
+        },
+        "camera": {
+          "name": "Camera movement mode (Camera Movement Formula)",
+          "target": "Users with specific camera movement requirements",
+          "feature": "Supports adding camera movement effects, such as panning, zooming, and rotating",
+          "example": "Mountain range, sunrise, panning"
+        },
+        "transformation": {
+          "name": "Transformation mode (Transformation Formula)",
+          "target": "Users who need to generate transformation effects",
+          "feature": "Supports generating transformation effects of objects or scenes, such as gradual change and fusion",
+          "example": "Flower, bloom, transformation"
+        }
+      }
+    },
+    "section2": {
+      "title": "How to write AI prompts",
+      "tips": {
+        "clearGoal": {
+          "title": "Clear goal",
+          "description": "Before writing AI prompts, clearly define the video content you want to generate. The clearer your goal, the better the generated video will be.",
+          "example1": "Landscape video",
+          "example2": "Character close-up",
+          "example3": "Dynamic effect"
+        },
+        "simpleLanguage": {
+          "title": "Use simple language",
+          "description": "AI prompts should be concise and clear, avoiding complex sentences.",
+          "badExample": "Generate a video of children playing in the park in the afternoon.",
+          "goodExample": "Sunny afternoon, children, park, play"
+        },
+        "keywordCombination": {
+          "title": "Keyword combination",
+          "description": "Combine multiple keywords to generate more diverse video content.",
+          "example": "Sunset, beach, waves, coconut tree"
+        },
+        "styleEmotion": {
+          "title": "Add style or emotion",
+          "description": "If you need a specific style or emotion, you can add related descriptions in the AI prompt.",
+          "example": "Romantic, sunset, couple, walk"
+        }
+      }
+    },
+    "section3": {
+      "title": "How to debug AI prompts",
+      "tips": {
+        "stepByStep": {
+          "title": "Step by step",
+          "description": "If the generated video is not satisfactory, you can adjust the AI prompt step by step.",
+          "initialPrompt": "City, night view",
+          "adjustedPrompt": "City, night view, light, traffic"
+        },
+        "testCombinations": {
+          "title": "Test different combinations",
+          "description": "Try different keyword combinations to find the best effect.",
+          "combination1": "Forest, morning mist, sunshine",
+          "combination2": "Forest, morning mist, bird song"
+        },
+        "reference": {
+          "title": "Reference template",
+          "description": "Reference our provided prompts and AI video templates, quick start.",
+          "item1": "Browse template library",
+          "item2": "Reference popular prompts",
+          "item3": "Learn success cases",
+          "link1": "View detailed tutorial",
+          "link2": "View template samples"
+        }
+      }
+    }
+  },
+  "Creator": {
+    "title": "Portfolio",
+    "description": "A collection of works by ArtAny creators.",
+    "keywords": "ArtAny creators, ArtAny portfolio, ArtAny artworks, ArtAny creator works"
+  }
+}

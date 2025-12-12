@@ -1,5 +1,3 @@
-import { Geist, Geist_Mono } from "next/font/google";
-
 export default function FlowLayout({ children }) {
   return (
     <div className="flex flex-col bg-base-100">

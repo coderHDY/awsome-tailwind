@@ -1,4 +1,6 @@
+import { User } from "@/shared/types/User";
 import { cookies } from "next/headers";
+import { NextResponse } from "next/server";
 
 export const GET = async (req: Request, { params }) => {
   // user/:id
@@ -9,18 +11,18 @@ export const GET = async (req: Request, { params }) => {
   }
 
   // Simulate fetching user data from a database
-  const userData = {
+  const userData: User = {
     id: userId,
-    name: "John Doe",
-    email: "999@qq.com",
+    name: "张三",
+    email: "zhangsan@example.com",
   };
   // sleep
   await new Promise((resolve) => setTimeout(resolve, 400));
 
-  return new Response(JSON.stringify(userData), {
-    status: 200,
-    headers: {
-      "Content-Type": "application/json",
-    },
-  });
+  return NextResponse.json(
+    { data: userData },
+    {
+      status: 200,
+    }
+  );
 };

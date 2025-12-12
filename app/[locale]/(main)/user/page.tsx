@@ -1,12 +1,15 @@
 // app/user/about/page.tsx
 import UserInfo from "./UserInfo";
 
-const Page = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 2000)); // Simulate a delay
+export { generateStaticParams } from "@/i18n";
+
+export const dynamic = "force-static"; // 强制静态渲染
+
+const Page = () => {
   return (
     <div>
       <h1>User About</h1>
-        <UserInfo />
+      <UserInfo />
     </div>
   );
 };

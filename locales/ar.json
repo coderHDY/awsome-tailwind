@@ -1,0 +1,423 @@
+{
+  "home": {
+    "title": "منشئ الفن الذكي المجاني: منصة ArtAny AI الإبداعية الشاملة",
+    "description": "ArtAny AI: منصة إبداعية مدعومة بالذكاء الاصطناعي ومجتمع | قم بإنشاء صور وفيديوهات ومزامنة شفاه مذهلة مجاناً | اكتشف موجهات ذكية وشارك الإلهام",
+    "keywords": "منشئ فيديو ذكاء اصطناعي مجاني، أدوات فيديو ذكاء اصطناعي مجانية، فيديو ذكاء اصطناعي، تحويل صورة إلى فيديو مجاني، منشئ صور مجاني، إنسان رقمي"
+  },
+  "Header": {
+    "text2image": "تحويل النص إلى صورة",
+    "aiVideo": "فيديو بالذكاء الاصطناعي",
+    "text2video": "تحويل النص إلى فيديو",
+    "image2video": "تحويل الصورة إلى فيديو",
+    "wanvace": "Wan Vace",
+    "videoEffects": "تأثيرات فيديو ذكية",
+    "veo3": "Veo3",
+    "aiImage": "صور بالذكاء الاصطناعي",
+    "aiImageGenerator": "منشئ الصور الذكي",
+    "flux1Kontext": "Flux1 Kontext",
+    "aiTools": "أدوات الذكاء الاصطناعي",
+    "promptGenerator": "منشئ الموجهات",
+    "explore": "استكشف",
+    "history": "السجل",
+    "pricing": "الأسعار",
+    "inspiration": "إلهام",
+    "about": "حول"
+  },
+  "Hero": {
+    "h1-up": "لا مزيد من الصور النمطية المملة. استمتع بأفضل الصور المجانية، مدعومة بالروبوتات في كل مكان",
+    "h1": "منصة إبداعية شاملة بالذكاء الاصطناعي مع أصول عالية الجودة",
+    "search": "ابحث عن صور مدعومة بالذكاء الاصطناعي...",
+    "searchButton": "بحث",
+    "table-1": "منشئ الصور الذكي",
+    "table-1-description": "من الكلمات إلى الصور",
+    "table-2": "تحويل الصورة إلى فيديو",
+    "table-2-description": "إنشاء مقاطع فيديو",
+    "table-3": "تحويل النص إلى فيديو",
+    "table-3-description": "الكلمات تتحول إلى سينما الآن!",
+    "table-4": "منشئ الموجهات",
+    "table-4-description": "مساعد موجهات ذكي",
+    "value-1": "يغطي كل شيء، من أدوات الذكاء الاصطناعي والتحرير إلى المحتوى الجاهز!",
+    "value-1-button": "احصل على خطة",
+    "h2-1": "احصل على الإلهام",
+    "h2-1-description": "اكتشف آلاف الصور المذهلة التي أنشأها فنانو ArtAny AI",
+    "h2-2": "مجتمع منشئ الفن الذكي ArtAny",
+    "h2-2-description": "انضم إلى ملايين المهتمين بالفن الذكي حول العالم لاستكشاف والإعجاب والتعليق على أحدث الصور المنشأة بالذكاء الاصطناعي والفيديوهات الآسرة وأساليب الفن الذكي المتطورة.",
+    "h2-2-button-1": "ابدأ الإنشاء",
+    "h2-2-button-2": "استكشف المزيد",
+    "h2-3": "المفضلة لدى المبدعين",
+    "h2-3-description": "تعرف على ما يحظى بأكبر اهتمام على منشئ الفن الذكي ArtAny الآن",
+    "h2-4": "أدوات قوية: لجميع مستويات المبدعين",
+    "h2-5": "استخدام منشئ الذكاء الاصطناعي",
+    "h2-5-description": "أداة مجانية لفنك",
+    "h2-5-h3-1": "انضم إلى مجتمع فني نابض بالحياة",
+    "h2-5-h3-1-description": "يستخدم الملايين منشئ ArtAny AI كل شهر لإنشاء ومشاركة ومناقشة الفن الذكي. في خطوات بسيطة، يمكنك إنشاء صور ورسوم توضيحية ذكية لمشاركتها مع أصدقائك.",
+    "h2-5-h3-2": "أنشئ مع الأصدقاء",
+    "h2-5-h3-2-description": "ابدأ أو انضم إلى غرفة دردشة مع أصدقائك، ثم تعاونوا في إنشاء الفن الذكي، أو استمتعوا معاً أثناء الإبداع.",
+    "h2-5-h3-3": "تحديات الفن الذكي اليومية الرسمية",
+    "h2-5-h3-3-description": "اختبر إبداعك ومهاراتك في كتابة الموجهات. يشارك الآلاف ويصوتون على إبداعات بعضهم البعض كل يوم.",
+    "h2-5-h3-4": "مجاني للاستخدام",
+    "h2-5-h3-4-description": "إنشاء غير محدود باستخدام Stable Diffusion الأساسي، بالإضافة إلى رصيد مجاني يومي لاستخدام نماذج وإعدادات منشئ الفن الذكي الأكثر تقدماً.",
+    "h2-5-h3-5": "خوارزميات ذكاء اصطناعي أكثر من أي مكان آخر",
+    "h2-5-h3-5-description": "اختر من بين Flux و Stable Diffusion و DALL-E 3 و Ideogram و SDXL وآلاف النماذج المدربة من المجتمع، بالإضافة إلى CLIP-Guided Diffusion و VQGAN+CLIP و Neural Style Transfer.",
+    "h2-5-h3-6": "منشئات فن ذكي للويب والجوال",
+    "h2-5-h3-6-description": "أنشئ صوراً ذكية عالية الجودة من حاسوبك المحمول أو جهازك اللوحي أو هاتفك المحمول وراجع الصور من أي جهاز.",
+    "h2-5-button-1": "ابدأ الإنشاء",
+    "h2-6": "الأسئلة الشائعة حول منشئ الفن الذكي",
+    "h2-6-description": "الأسئلة المتكررة حول الفن الذكي و ArtAny",
+    "h2-6-h3-1": "كيف يعمل منشئ الفن الذكي ArtAny؟",
+    "h2-6-h3-1-answer": "ArtAny هو منشئ فني، لكن ما يميزه هو المجتمع. انضم إلى ملايين المهتمين بالفن الذكي الآخرين وانشر إبداعاتك، وأعجب وعلق على إبداعات الآخرين، وتواصل في غرف دردشة الفن الذكي وحتى شارك في مسابقات وتحديات الأعمال الفنية - كل ذلك دون مغادرة ArtAny.",
+    "h2-6-h3-2": "هل يكلف استخدام ArtAny مالاً؟",
+    "h2-6-h3-2-answer": "يمكنك إنشاء محتوى ذكي بجودة أساسية (صور وفيديوهات قصيرة) مجاناً. تتطلب الدقة العالية والمدد الأطول أو المخرجات الاحترافية رصيداً. يتم توفير رصيد مجاني يومياً، ويمكنك كسب المزيد من خلال المشاركة في المجتمع! فقط الخدمات المتميزة مثل الطباعة أو الإنشاءات الاحترافية تتطلب الدفع.",
+    "h2-6-h3-3": "هل لدى ArtAny أي ميزات فريدة؟",
+    "h2-6-h3-3-answer": "نعم! يمتلك ArtAny نماذج منشئ فن ذكي أكثر من أي منصة أخرى، وميزات اجتماعية أكثر أيضاً، مما يؤدي إلى أكثر مجتمع فن ذكي حيوية على الإنترنت.",
+    "h2-6-h3-4": "ما هي نماذج الذكاء الاصطناعي المتوفرة على ArtAny؟",
+    "h2-6-h3-4-answer": "يقدم ArtAny نماذج منشئ فن ذكي أكثر من أي منصة أخرى. Flux و Stable Diffusion و Dall-e 3 و Ideogram و Google Imagen، بالإضافة إلى نماذج الفيديو مثل LUMA Dream Machine و Stable Video Diffusion، والمزيد قادم!"
+  },
+  "Pricing": {
+    "title": "ArtAny AI الأسعار - توليد الفيديو والصور بالذكاء الاصطناعي",
+    "description": "استكشف خطط الأسعار الخاصة بنا لـ ArtAny، أداة توليد الفيديو والصور بالذكاء الاصطناعي. اختر الخطة التي تناسب احتياجاتك بشكل أفضل وابدأ في إنشاء مرئيات مذهلة بالذكاء الاصطناعي!",
+    "headline": "خطط أسعار ArtAny AI",
+    "subheadline": "اختر الخطة التي تناسب احتياجاتك بشكل أفضل وابدأ في إنشاء مرئيات مذهلة بالذكاء الاصطناعي!",
+    "creationLimits": "حتى {videoCount} فيديو أو {imageCount} صورة",
+    "creditsPerPeriod": "{creditCount} رصيد لكل {period}",
+    "month": "شهر",
+    "year": "سنة",
+    "plans": {
+      "plan2": {
+        "name": "الخطة الأساسية",
+        "description": "مثالية للمشاريع الصغيرة",
+        "features": {
+          "feature1": "مولد النصوص المجاني مجاني",
+          "feature2": "الوصول إلى جميع نماذج الذكاء الاصطناعي",
+          "feature3": "استخدام غير محدود للفيديو 🔥",
+          "feature4": "احصل على جميع الرصيد مرة واحدة مع الرسوم السنوية",
+          "feature5": "تاريخ الفيديو",
+          "feature6": "الترخيص التجاري",
+          "feature7": "نماذج سريعة غير محدودة",
+          "feature8": "بدون إعلانات",
+          "feature9": "الرصيد يتراكم ولا ينتهي أبداً"
+        }
+      },
+      "plan3": {
+        "name": "الخطة المميزة",
+        "description": "تحتاج إلى المزيد من القوة",
+        "features": {
+          "feature1": "مولد النصوص المجاني مجاني",
+          "feature2": "الوصول إلى جميع نماذج الذكاء الاصطناعي",
+          "feature3": "استخدام غير محدود للفيديو 🔥",
+          "feature4": "احصل على جميع الرصيد مرة واحدة مع الرسوم السنوية",
+          "feature5": "تاريخ الفيديو",
+          "feature6": "الترخيص التجاري",
+          "feature7": "نماذج سريعة غير محدودة",
+          "feature8": "بدون إعلانات",
+          "feature9": "الرصيد يتراكم ولا ينتهي أبداً"
+        }
+      },
+      "plan4": {
+        "name": "الخطة المتقدمة",
+        "description": "تحتاج إلى المزيد من القوة",
+        "features": {
+          "feature1": "مولد النصوص المجاني مجاني",
+          "feature2": "الوصول إلى جميع نماذج الذكاء الاصطناعي",
+          "feature3": "استخدام غير محدود للفيديو 🔥",
+          "feature4": "احصل على جميع الرصيد مرة واحدة مع الرسوم السنوية",
+          "feature5": "تاريخ الفيديو",
+          "feature6": "الترخيص التجاري",
+          "feature7": "نماذج سريعة غير محدودة",
+          "feature8": "بدون إعلانات",
+          "feature9": "الرصيد يتراكم ولا ينتهي أبداً"
+        }
+      }
+    }
+  },
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "description": "At ArtAny AI, we are committed to providing an exceptional experience for our users. We understand that circumstances may change, and you may need to request a refund. Please read our refund policy carefully before making a purchase.",
+    "refundEligibility": {
+      "title": "Refund Eligibility",
+      "description": "Time Limit: ",
+      "timeLimit": "Refund requests must be made within 3 days of your purchase. After this period, we will be unable to process any refund requests.",
+      "creditUsage": "Credit Usage: ",
+      "creditUsageDescription": "If you have used more than 100 credits, regardless of the purchase date, you will no longer be eligible for a refund."
+    },
+    "howToRequest": {
+      "title": "How to Request a Refund",
+      "description": "If you meet the above eligibility criteria and wish to request a refund, please follow these steps:",
+      "contactUs": "Contact Us: ",
+      "contactUsDescription": "Reach out to our support team via email at ",
+      "contactUsLink": "help@artany.ai",
+      "provideDetails": "Provide Details: ",
+      "provideDetailsDescription": "Include your account information, order number, purchase date, and the reason for your refund request in the email.",
+      "submitOnTime": "Submit on Time: ",
+      "submitOnTimeDescription": "Ensure your refund request is submitted within 3 days of purchase."
+    },
+    "refundProcessing": {
+      "title": "Refund Processing",
+      "description": "Once we receive your refund request, we will review it and notify you of the result as soon as possible. If approved, the refund will be processed through your original payment method."
+    },
+    "policyChanges": {
+      "title": "Policy Changes",
+      "description": "We reserve the right to update the refund policy at any time. Any changes will be posted on this page, and we recommend checking regularly for the latest information."
+    }
+  },
+  "text2video": {
+    "title": "منشئ الفيديو الفني: تحويل النص إلى فيديو | ArtAny AI Video",
+    "description": "تحويل النص إلى فيديو باستخدام الذكاء الاصطناعي - حوّل النص فوراً إلى مقاطع فيديو احترافية باستخدام الذكاء الاصطناعي. تنشئ التوجيهات الذكية مقاطع مثالية لوسائل التواصل الاجتماعي والأعمال. ArtAny AI"
+  },
+  "wan-vace": {
+    "title": "Wan 2.1 VACE: نموذج إنشاء الفيديو مفتوح المصدر | Wan VACE",
+    "description": "Wan AI VACE هو نموذج مفتوح المصدر بحجم 14B لإنشاء فيديو عالي الدقة من الإطارات الأولى والأخيرة، مثالي للاستخدام الإبداعي والتجاري. Seedance AI Video Generation"
+  },
+  "wan-ai": {
+    "title": "Wan AI Video Generation Model (Wan 2.1)| ArtAny AI",
+    "description": "ArtAny AI integrates Wan AI video models, featuring Wan 2.1! Generate anime, realistic & 3D videos effortlessly. Perfect for creators and businesses. "
+  },
+  "image2video": {
+    "title": "تحويل الصور إلى فيديو بالذكاء الاصطناعي، إنشاء الفيديو من الصور | ArtAny",
+    "description": "تستخدم أداة تحويل الصور إلى فيديو من ArtAny AI الذكاء الاصطناعي لإنشاء مقاطع فيديو من الصور والتوجيهات. مثالية للتسويق ووسائل التواصل الاجتماعي والمشاريع الشخصية. جربها الآن!"
+  },
+  "videoEffects": {
+    "title": "تأثيرات الذكاء الاصطناعي للفيديو - قوالب فيديو مجانية بالذكاء الاصطناعي | ArtAny AI",
+    "description": "اكتشف أكثر من 40 تأثيراً وقالباً مجانياً للفيديو بالذكاء الاصطناعي مع ArtAny AI! أنشئ مقاطع فيديو مذهلة بسهولة باستخدام تقنية الذكاء الاصطناعي المتطورة. جرب الآن!"
+  },
+  "veo3": {
+    "title": "منشئ فيديو Google Veo3 بالذكاء الاصطناعي: تحويل النص إلى فيديو | ArtAny AI",
+    "description": "أنشئ مقاطع فيديو مذهلة بالذكاء الاصطناعي مع صوت متزامن باستخدام Veo 3. أحدث أداة لإنشاء الفيديو بالذكاء الاصطناعي تضيف المؤثرات الصوتية والحوار والأصوات المحيطة."
+  },
+  "models": {
+    "wan-ai": {
+      "title": "Wan 2.1: Leading AI Video Generation Model (Wanx 2.1)|Wan AI",
+      "description": "Wan 2.1 (Alibaba WanX AI) an AI creative platform,enables text-to-image, image editing, text-to-video, video-to-video and image-to-video creation powered by AI.",
+      "h1": "Wan 2.1 (Wanx 2.1) by Alibaba Wan AI",
+      "h1-description": "Wan AI is an advanced and powerful visual generation model developed by Tongyi Lab. It can generate videos based on text, images and other control signals. The Wan 2.1 series models are now fully open-source.",
+      "h2-1": "Overview of Wan AI",
+      "h2-1-h3-1": "SOTA Performance",
+      "h2-1-h3-1-description": "Wan 2.1 consistently outperforms existing open-source models and state-of-the-art commercial solutions across multiple benchmarks.",
+      "h2-1-h3-2": "Supports Consumer-grade GPUs",
+      "h2-1-h3-2-description": "The T2V-1.3B model requires only 8.19 GB VRAM, making it compatible with almost all consumer-grade GPUs. It can generate a 5-second 480P video on an RTX 4090 in about 4 minutes (without optimization techniques like quantization). Its performance is even comparable to some closed-source models.",
+      "h2-1-h3-3": "Multiple tasks",
+      "h2-1-h3-3-description": "Wan 2.1 excels in Text-to-Video, Image-to-Video, Video Editing, Text-to-Image, and Video-to-Audio, advancing the field of video generation.",
+      "h2-1-h3-4": "Visual Text Generation",
+      "h2-1-h3-4-description": "Wan 2.1 is the first video model capable of generating both Chinese and English text, featuring robust text generation that enhances its practical applications.",
+      "h2-1-h3-5": "Powerful Video VAE of Wan AI",
+      "h2-1-h3-5-description": "Wan-VAE delivers exceptional efficiency and performance, encoding and decoding 1080P videos of any length while preserving temporal information, making it an ideal foundation for video and image generation.",
+      "h2-2": "Features of Wan AI",
+      "h2-2-h3-1": "Complex Motions by Wan AI 2.1",
+      "h2-2-h3-1-description": "Excels at generating realistic videos featuring extensive body movements, complex rotations, dynamic scene transitions, and fluid camera motions.",
+      "h2-2-h3-2": "Physical Simulation by Wan AI 2.1",
+      "h2-2-h3-2-description": "Generates videos that accurately simulate real-world physics and realistic object interactions.",
+      "h2-2-h3-3": "Cinematic Quality by Wan AI 2.1",
+      "h2-2-h3-3-description": "Offers movie-like visuals with rich textures and a variety of stylized effects.",
+      "h2-2-h3-4": "Controllable Editing by Wan AI 2.1",
+      "h2-2-h3-4-description": "Features a universal editing model for precise edits using image or video references.",
+      "h2-2-h3-5": "Visual Text Generation by Wan AI 2.1",
+      "h2-2-h3-5-description": "Creates text and dynamic text effects in videos directly from text prompts.",
+      "h2-3": "Product Features",
+      "h2-3-description": "Through our product, you can seamlessly leverage our models with a user-friendly experience to access inspiring video content.",
+      "h2-3-h3-1": "Text to Video",
+      "h2-3-h3-2": "Image to Video",
+      "h2-3-h3-3": "Start and End Frames",
+      "h2-4": "Wan AI 2.1 Open Source",
+      "h2-4-description": "In this repo, we release the code and weights for the Wan 2.1, a comprehensive and open suite of video foundation models designed to push the boundaries of video generation.",
+      "h2-4-h3-1": "Wan2.1-I2V-14B",
+      "h2-4-h3-1-720P": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-I2V-14B-720P",
+      "h2-4-h3-1-480P": "https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-I2V-14B-480P",
+      "h2-4-h3-1-description": "The I2V-14B model outperforms leading closed-source models as well as all existing open-source models, achieving SOTA performance. It is capable of generating videos that demonstrate complex visual scenes and motion patterns based on input text and images, including both 480P and 720P resolution models.",
+      "h2-4-h3-2": "Wan2.1-T2V-14B",
+      "h2-4-h3-2-720P": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-T2V-14B",
+      "h2-4-h3-2-description": "The T2V-14B model sets a new SOTA performance among both open-source and closed-source models, showcasing its ability to generate high-quality visuals with substantial motion dynamics. It is also the only video model capable of producing both Chinese and English text and supports video generation at both 480P and 720P resolutions.",
+      "h2-4-h3-3": "Wan2.1-T2V-1.3B",
+      "h2-4-h3-3-480P": "https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B?spm=5176.28735610.0.0.568be41ehS0jcL&file=Wan2.1-T2V-1.3B",
+      "h2-4-h3-3-description": "The T2V-1.3B model supports video generation on almost all consumer-grade GPUs, requiring only 8.19 GB of BRAM to produce a 5-second 480P video, with an output time of just 4 minutes on an RTX 4090 GPU. Through pre-training and distillation processes, it surpasses larger open-source models and achieves performance even comparable to some advanced closed-source models.",
+      "h2-4-h3-4": "Wan2.1-FLF2V-14B-720P",
+      "h2-4-h3-4-720P": "https://huggingface.co/Wan-AI/Wan2.1-FLF2V-14B-720P#run-first-last-frame-to-video-generation",
+      "h2-4-h3-4-description": "Wan 2.1 First-Last-Frame-to-Video (FLF2V) is an AI-based video generation technology that synthesizes intermediate frames between a given start and end frame to produce smooth videos. It leverages a 14B-parameter model, supports multi-GPU accelerated inference, and offers pretrained checkpoints with a Gradio demo for interactive testing. Applications include video inpainting, animation production, and more.",
+      "h2-5": "Frequently Asked Questions",
+      "h2-5-h3-1": "What is Wan 2.1 by Wan AI and how does it work?",
+      "h2-5-h3-1-description": "Wan 2.1 by Wan AI is Alibaba Cloud's state-of-the-art video generation model that transforms text descriptions into stunning, high-quality videos. Leveraging advanced technologies like Variational Autoencoders (VAE) and Diffusion Transformers (DiT), it ensures realistic visuals, smooth transitions, and accurate physics for a truly immersive experience.",
+      "h2-5-h3-2": "Do I need technical expertise to use Wan 2.1 by Wan AI?",
+      "h2-5-h3-2-description": "Wan 2.1 by Wan AI is designed with simplicity in mind. Its intuitive interface allows anyone to create professional-quality videos effortlessly, even without advanced technical skills. Whether you're a beginner or a pro, you'll find the platform easy to navigate and use.",
+      "h2-5-h3-3": "What types of videos can I create with Wan 2.1 by Wan AI?",
+      "h2-5-h3-3-description": "Wan 2.1 by Wan AI is versatile and capable of generating a wide range of video content. From dynamic scenes like dancing and sports to educational tutorials and historical video restoration, it empowers you to bring your creative vision to life.",
+      "h2-5-h3-4": "How long does it take to generate a video?",
+      "h2-5-h3-4-description": "The video generation time depends on the complexity and length of your project. For faster results, the Pro version offers accelerated processing speeds, making it ideal for time-sensitive tasks.",
+      "h2-5-h3-5": "Can I customize the video output?",
+      "h2-5-h3-5-description": "Absolutely! Wan 2.1 by Wan AI provides extensive customization options, allowing you to adjust resolution, frame rate, movement complexity, and more. Tailor your videos to meet your specific needs and preferences.",
+      "h2-5-h3-6": "What input formats does Wan 2.1 AI by Wan AI support for video generation?",
+      "h2-5-h3-6-description": "Wan 2.1 AI by Wan AI primarily supports text descriptions as input for video generation. You can provide detailed textual prompts describing the scene, actions, and desired visual effects. Additionally, it may support image inputs for enhanced context in future updates.",
+      "h2-5-h3-7": "Can Wan 2.1 AI by Wan AI generate videos in multiple languages?",
+      "h2-5-h3-7-description": "Yes, Wan 2.1 AI by Wan AI supports multilingual text inputs, allowing you to generate videos based on descriptions in various languages. However, the quality of output may vary depending on the language and the complexity of the description.",
+      "h2-5-h3-8": "Is there a limit to the length of videos that Wan 2.1 by Wan AI can generate?",
+      "h2-5-h3-8-description": "The length of generated videos depends on the subscription plan. The free version may have limitations on video duration, while the Pro version supports longer and more complex video generation. Specific limits can be found in the platform's documentation.",
+      "h2-5-h3-9": "How does Wan 2.1 by Wan AI ensure the quality of generated videos?",
+      "h2-5-h3-9-description": "Wan 2.1 AI by Wan AI leverages advanced technologies like Variational Autoencoders (VAE) and Diffusion Transformers (DiT) to ensure high-quality outputs. These technologies enable realistic visuals, smooth transitions, and accurate physics simulations.",
+      "h2-5-h3-10": "How does Wan 2.1 by Wan AI handle complex scenes with multiple characters?",
+      "h2-5-h3-10-description": "Wan 2.1 by Wan AI is designed to handle complex scenes with multiple characters by analyzing the relationships and interactions described in the text input. It uses advanced algorithms to ensure realistic positioning, movements, and interactions between characters."
+    },
+    "flux1": {
+      "title": "ALL the Top-Tier AI Video Models in ONE Place | ArtAny AI",
+      "description": "Create pro videos at low cost! ArtAny combines all AI video models - image-to-video, video-to-video, effects & images made easy. Use ArtAny AI video generator !"
+    }
+  },
+  "imageGenerator": {
+    "title": "منشئ الصور المجاني بالذكاء الاصطناعي | الصور الفنية | ArtAny AI Image",
+    "description": "ArtAny AI - منشئ صور مجاني وغير محدود بالذكاء الاصطناعي مع نماذج شائعة - أنشئ صوراً عالية الجودة بنقرة واحدة! | ArtAny AI"
+  },
+  "flux1Kontext": {
+    "title": "Flux1 Kontext Pro و Max و Multi Image – جرب Flux1 على ArtAny AI",
+    "description": "أنشئ وحرر مشاريع الصور المتعددة بسهولة مع Flux.1 Kontext. افتح آفاق التعقيد بسهولة! جرب Flux Pro و Max و Multi على ArtAny AI الآن!"
+  },
+  "homeShow":{
+    "title": "Free AI Video Prompt Generator - AI Image Prompt Generator",
+    "description": "the best prompt generator for AI video and image generation, Wan AI, Flux1, Runway, Veo3, Kling AI, Seedance1.0, Google, ByteDance, ArtAny AI"
+  },
+  "explore": {
+    "title": "AI Videos: Discover Free AI-generated Videos | ArtAny",
+    "description": "Find high-quality videos generated by AI. Create stunning AI videos using the same template."
+  },
+  "prompt": {
+    "SEO": {
+      "title": "Free AI Video Prompt Generator - Perfect Prompts for AI Model",
+      "description": "Free prompt tool for AI! Generate prompts for image-to-video,text-to-video & text-to-image.Perfect for Wan AI, Flux, Runway.Ideal for creators & developers.",
+      "keywords": "AI Prompt Generator Tool"
+    },
+    "promptGenerator": {
+      "name": "Video Prompt Generator",
+      "description": "Select prompt formula",
+      "viewTutorial": "View tutorial",
+      "selectFormula": "Select formula",
+      "formulas": {
+        "basic": {
+          "name": "Basic Formula",
+          "description": "Suitable for new users trying AI video for the first time"
+        },
+        "advanced": {
+          "name": "Advanced Formula",
+          "description": "Suitable for users with some AI video experience"
+        },
+        "camera": {
+          "name": "Camera Movement Formula",
+          "description": "Suitable for users with specific camera movement requirements"
+        },
+        "transformation": {
+          "name": "Transformation Formula",
+          "description": "Suitable for users who need transformation effects"
+        }
+      },
+      "selectOutputLanguage": "Select output language",
+      "enterYourIdea": "Enter your idea",
+      "enterYourIdeaDescription": "Describe the video content you want to generate...",
+      "loginForFreeAccess": "Login for free access",
+      "generatePrompt": "Generate Prompt",
+      "generating": "Generating...",
+      "resultName": "Generated Result",
+      "copied": "Copied",
+      "copy": "Copy",
+      "generatingPrompt": "Generating prompt, please wait...",
+      "resultDescription": "Enter your idea on the left and generate a prompt.",
+      "exploreMore": "Explore more"
+    },
+    "title": "How to write and debug AI prompts",
+    "description": "We provide a powerful free prompt generator that helps users generate high-quality prompts, making it easier to use Wan AI and other AI video generation tools.",
+    "target": "Target audience",
+    "feature": "Features",
+    "example": "Example prompts",
+    "optionalTargetType": "Optional target type",
+    "notRecommended": "Not recommended",
+    "recommended": "Recommended",
+    "initialPrompt": "Initial prompt",
+    "exampleCombination": "Example combination",
+    "adjustedPrompt": "Adjusted prompt",
+    "combination1": "Combination 1",
+    "combination2": "Combination 2",
+    "recommendedOperation": "Recommended operation",
+    "section1": {
+      "title": "How to use the prompt generator",
+      "modes": {
+        "basic": {
+          "name": "Basic mode (Basic Formula)",
+          "target": "New users trying AI video for the first time",
+          "feature": "Provides simple and easy-to-understand prompt templates, suitable for quick start",
+          "example": "Beach, sunset, waves"
+        },
+        "advanced": {
+          "name": "Advanced mode (Advanced Formula)",
+          "target": "Users with some AI video generation experience",
+          "feature": "Supports more complex prompt combinations, generating more creative videos",
+          "example": "Future city, flying car, neon lights"
+        },
+        "camera": {
+          "name": "Camera movement mode (Camera Movement Formula)",
+          "target": "Users with specific camera movement requirements",
+          "feature": "Supports adding camera movement effects, such as panning, zooming, and rotating",
+          "example": "Mountain range, sunrise, panning"
+        },
+        "transformation": {
+          "name": "Transformation mode (Transformation Formula)",
+          "target": "Users who need to generate transformation effects",
+          "feature": "Supports generating transformation effects of objects or scenes, such as gradual change and fusion",
+          "example": "Flower, bloom, transformation"
+        }
+      }
+    },
+    "section2": {
+      "title": "How to write AI prompts",
+      "tips": {
+        "clearGoal": {
+          "title": "Clear goal",
+          "description": "Before writing AI prompts, clearly define the video content you want to generate. The clearer your goal, the better the generated video will be.",
+          "example1": "Landscape video",
+          "example2": "Character close-up",
+          "example3": "Dynamic effect"
+        },
+        "simpleLanguage": {
+          "title": "Use simple language",
+          "description": "AI prompts should be concise and clear, avoiding complex sentences.",
+          "badExample": "Generate a video of children playing in the park in the afternoon.",
+          "goodExample": "Sunny afternoon, children, park, play"
+        },
+        "keywordCombination": {
+          "title": "Keyword combination",
+          "description": "Combine multiple keywords to generate more diverse video content.",
+          "example": "Sunset, beach, waves, coconut tree"
+        },
+        "styleEmotion": {
+          "title": "Add style or emotion",
+          "description": "If you need a specific style or emotion, you can add related descriptions in the AI prompt.",
+          "example": "Romantic, sunset, couple, walk"
+        }
+      }
+    },
+    "section3": {
+      "title": "How to debug AI prompts",
+      "tips": {
+        "stepByStep": {
+          "title": "Step by step",
+          "description": "If the generated video is not satisfactory, you can adjust the AI prompt step by step.",
+          "initialPrompt": "City, night view",
+          "adjustedPrompt": "City, night view, light, traffic"
+        },
+        "testCombinations": {
+          "title": "Test different combinations",
+          "description": "Try different keyword combinations to find the best effect.",
+          "combination1": "Forest, morning mist, sunshine",
+          "combination2": "Forest, morning mist, bird song"
+        },
+        "reference": {
+          "title": "Reference template",
+          "description": "Reference our provided prompts and AI video templates, quick start.",
+          "item1": "Browse template library",
+          "item2": "Reference popular prompts",
+          "item3": "Learn success cases",
+          "link1": "View detailed tutorial",
+          "link2": "View template samples"
+        }
+      }
+    }
+  },
+  "Creator": {
+    "title": "Portfolio",
+    "description": "A collection of works by ArtAny creators.",
+    "keywords": "ArtAny creators, ArtAny portfolio, ArtAny artworks, ArtAny creator works"
+  }
+}

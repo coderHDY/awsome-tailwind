@@ -4,6 +4,33 @@ import { motion } from "framer-motion";
 import ImageWithSkeleton from "@/components/ImageWithSkeleton";
 import useLoadMore from "@/hooks/useLoadMore";
 
+// export const metadata = {
+//   title: "Image Stream",
+//   description: "Infinite scroll image stream",
+// };
+// export const dynamic = "force-dynamic"; // 让页面每次都重新渲染
+// export const revalidate = 0; // 让页面每次都重新渲染
+// export const runtime = "edge"; // 让页面在边缘计算上运行
+// export const fetchCache = "force-no-store"; // 让页面每次都重新渲染
+
+// export const revalidateTag = "image-stream"; // 让页面每次都重新渲染
+// export const revalidateTagConfig = {
+//   revalidateTag: "image-stream",
+//   revalidateTagConfig: {
+//     revalidateTag: "image-stream",
+//     revalidateTagConfig: {
+//       revalidateTag: "image-stream",
+//       revalidateTagConfig: {
+//         revalidateTag: "image-stream",
+//       },
+//     },
+//   },
+// };
+// export const runtimeConfig = {
+//   runtime: "edge",
+//   fetchCache: "force-no-store",
+// };
+
 async function fetchImages(page: number): Promise<string[]> {
   return Array.from({ length: 9 }, (_, i) => {
     const id = page * 10 + i;

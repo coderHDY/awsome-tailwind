@@ -1,16 +1,5 @@
 import Link from "next/link";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
 export const metadata = {
   title: "Create Next App",
@@ -20,7 +9,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <body>
         {/* header */}
         <header className="flex items-center justify-between px-4 py-2 bg-base-200">
           <div className="flex items-center">
@@ -49,3 +38,39 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+// export default async function RootLayout({ children }) {
+//   const messages = await getMessages();
+//   return (
+//     <html lang="en">
+//       <body>
+//         <NextIntlClientProvider messages={messages}>
+//           {/* header */}
+//           <header className="flex items-center justify-between px-4 py-2 bg-base-200">
+//             <div className="flex items-center">
+//               <h1 className="text-xl font-bold">My App</h1>
+//             </div>
+//             <nav className="flex space-x-4">
+//               <Link href="/" className="text-base-content">
+//                 Home
+//               </Link>
+//               <Link href="/user" className="text-base-content">
+//                 User
+//               </Link>
+//               <Link href="/flow" className="text-base-content">
+//                 flow
+//               </Link>
+//               <Link href="/about" className="text-base-content">
+//                 about
+//               </Link>
+//               <Link href="/flow-local" className="text-base-content">
+//                 手写flow组件
+//               </Link>
+//             </nav>
+//           </header>
+//           {children}
+//         </NextIntlClientProvider>
+//       </body>
+//     </html>
+//   );
+// }
