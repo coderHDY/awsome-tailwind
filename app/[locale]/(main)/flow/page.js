@@ -1,5 +1,5 @@
 import FlowEditor from "./FlowEditor";
-export { generateStaticParams } from "@/i18n";
+export { generateStaticParams } from "@/i18n/request";
 
 export const dynamic = "force-static"; // 强制静态渲染
 

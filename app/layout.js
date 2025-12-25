@@ -30,8 +30,8 @@ export default function RootLayout({ children }) {
               <Link href="/about" className="text-base-content">
                 about
               </Link>
-              <Link href="/flow-local" className="text-base-content">
-                手写flow组件
+              <Link href="/image-view" className="text-base-content">
+                图片瀑布流
               </Link>
               <Link href="/login" className="text-base-content">
                 登录

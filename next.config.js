@@ -1,9 +1,6 @@
 const createNextIntlPlugin = require("next-intl/plugin");
 
-const withNextIntl = createNextIntlPlugin(
-  // Specify a custom path here
-  "./i18n.js"
-);
+const withNextIntl = createNextIntlPlugin();
 const nextConfig = {
   reactStrictMode: true,
   env: {
@@ -12,23 +9,12 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "cdn.artany.ai",
-      },
-      {
-        protocol: "https",
-        hostname: "lh3.googleusercontent.com",
-      },
-      {
         protocol: "https",
         hostname: "pbs.twimg.com",
       },
       {
         protocol: "https",
         hostname: "images.unsplash.com",
-      },
-      {
-        protocol: "https",
-        hostname: "logos-world.net",
       },
       {
         protocol: "https",
@@ -40,42 +26,15 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "cdn-lfs-us-1.huggingface.co",
+        hostname: "picsum.photos",
+        pathname: "/**",
       },
       {
         protocol: "https",
-        hostname: "oaidalleapiprodscus.blob.core.windows.net",
-      },
-      {
-        hostname: "cdn.reveai.art",
-      },
-      {
-        protocol: "https",
-        hostname: "toolplate.ai",
-      },
-      {
-        protocol: "https",
-        hostname: "a.nel.cloudflare.com",
-      },
-      {
-        protocol: "https",
-        hostname: "replicate.delivery",
-      },
-    ],
-    domains: [
-      "cdn2.reveai.art",
-      "cdn.wan-ai.org",
-      "cdn.seedance.ai",
-      "cdn.artany.ai",
-    ],
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "cdn.artany.ai",
+        hostname: "cdn.pixabay.com",
         pathname: "/**",
       },
     ],
-    unoptimized: true,
   },
   webpack: (
     config,

@@ -2,12 +2,14 @@ import React from "react";
 
 const Loading = () => {
   const letters = [
-    { char: "A", color: "text-purple-400", delay: 0 },
-    { char: "r", color: "text-purple-400", delay: 0.1 },
-    { char: "t", color: "text-purple-400", delay: 0.2 },
-    { char: "A", color: "text-purple-400", delay: 0.3 },
-    { char: "n", color: "text-purple-400", delay: 0.4 },
-    { char: "y", color: "text-purple-400", delay: 0.5 },
+    { char: "c", color: "text-purple-400", delay: 0 },
+    { char: "o", color: "text-purple-400", delay: 0.1 },
+    { char: "d", color: "text-purple-400", delay: 0.2 },
+    { char: "e", color: "text-purple-400", delay: 0.3 },
+    { char: "r", color: "text-purple-400", delay: 0.4 },
+    { char: "H", color: "text-purple-400", delay: 0.5 },
+    { char: "D", color: "text-purple-400", delay: 0.5 },
+    { char: "Y", color: "text-purple-400", delay: 0.5 },
   ];
 
   return (

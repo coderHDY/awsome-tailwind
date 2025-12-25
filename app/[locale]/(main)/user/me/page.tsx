@@ -2,7 +2,7 @@
 import UserInfo from "./UserInfo";
 
 export const dynamic = "force-dynamic"; // 强制动态渲染
-export { generateStaticParams } from "@/i18n";
+export { generateStaticParams } from "@/i18n/request";
 
 const Page = async () => {
   await new Promise((resolve) => setTimeout(resolve, 2000));
