@@ -1,7 +1,8 @@
 import { User } from "@/shared/types/User";
 import { NextResponse } from "next/server";
 import { auth } from "@/utils/auth";
-import { testUsers } from "@/utils/testUser";
+import { getDb } from "@/utils/db";
+import { ObjectId } from "mongodb";
 
 export const GET = async (req: Request, { params }) => {
   try {
@@ -15,19 +16,32 @@ export const GET = async (req: Request, { params }) => {
       );
     }
 
-    // user/:id
-    const { id: userId } = await params;
-    const userIdNum = parseInt(userId as string, 10);
+    // user/:id (路径参数名为 id，但实际存储的是 MongoDB 的 _id)
+    const { id: userIdParam } = await params;
 
-    if (!userId || isNaN(userIdNum)) {
+    if (!userIdParam) {
       return NextResponse.json(
         { error: "用户ID无效" },
         { status: 400 }
       );
     }
 
-    // 从 testUser.js 查询用户数据
-    const user = testUsers.find((u) => u.id === userIdNum);
+    // 从 MongoDB 查询用户数据（使用 _id 字段）
+    const db = await getDb();
+    let user;
+    
+    // 尝试作为 ObjectId 查询（MongoDB 的 _id）
+    try {
+      user = await db.collection("users").findOne({
+        _id: new ObjectId(userIdParam as string),
+      });
+    } catch (error) {
+      // 如果 ObjectId 无效，返回错误
+      return NextResponse.json(
+        { error: "用户ID格式无效" },
+        { status: 400 }
+      );
+    }
 
     if (!user) {
       return NextResponse.json(
@@ -37,8 +51,9 @@ export const GET = async (req: Request, { params }) => {
     }
 
     // 返回用户信息（不包含密码）
+    // 直接使用 MongoDB 的 _id (ObjectId 字符串)
     const userData: User = {
-      id: user.id,
+      _id: user._id.toString(),
       name: user.name,
       email: user.email,
     };

@@ -1,5 +1,5 @@
 export type User = {
-  id: number;
+  _id: string; // MongoDB 的 _id (ObjectId 字符串)
   name: string;
   email: string;
 };
