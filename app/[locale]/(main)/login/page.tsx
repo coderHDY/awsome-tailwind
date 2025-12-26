@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 import toast from "react-hot-toast";
 
 export default function LoginPage() {
@@ -88,6 +89,15 @@ export default function LoginPage() {
             >
               {isLoading ? "登录中..." : "登录"}
             </button>
+          </div>
+
+          <div className="text-center">
+            <Link
+              href="/register"
+              className="text-sm text-indigo-600 hover:text-indigo-500"
+            >
+              还没有账号？去注册
+            </Link>
           </div>
         </form>
       </div>
